@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simplereactmadlib/static/css/main.39374ede.chunk.css",
+    "main.js": "/simplereactmadlib/static/js/main.313c6237.chunk.js",
+    "main.js.map": "/simplereactmadlib/static/js/main.313c6237.chunk.js.map",
+    "runtime-main.js": "/simplereactmadlib/static/js/runtime-main.3822b20d.js",
+    "runtime-main.js.map": "/simplereactmadlib/static/js/runtime-main.3822b20d.js.map",
+    "static/js/2.905b974a.chunk.js": "/simplereactmadlib/static/js/2.905b974a.chunk.js",
+    "static/js/2.905b974a.chunk.js.map": "/simplereactmadlib/static/js/2.905b974a.chunk.js.map",
+    "index.html": "/simplereactmadlib/index.html",
+    "precache-manifest.ccacbeaff5e03eb3da04999a07514207.js": "/simplereactmadlib/precache-manifest.ccacbeaff5e03eb3da04999a07514207.js",
+    "service-worker.js": "/simplereactmadlib/service-worker.js",
+    "static/css/main.39374ede.chunk.css.map": "/simplereactmadlib/static/css/main.39374ede.chunk.css.map",
+    "static/js/2.905b974a.chunk.js.LICENSE.txt": "/simplereactmadlib/static/js/2.905b974a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3822b20d.js",
+    "static/js/2.905b974a.chunk.js",
+    "static/css/main.39374ede.chunk.css",
+    "static/js/main.313c6237.chunk.js"
+  ]
+}
